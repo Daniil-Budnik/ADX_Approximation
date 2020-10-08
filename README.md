@@ -1,1 +1,1 @@
-# ADX_Approximation
+# Приближение задачи ADX
