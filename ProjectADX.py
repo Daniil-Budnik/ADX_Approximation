@@ -74,7 +74,7 @@ if __name__ == "__main__":
     GridXY(_X, _ADX_Noise, "All (5.33)", 'blue', 4)                                     # 4 - Все графики + Апроксимация по (5.33)
     GridXY(_X,_ADX_Aprox, "All (5.33)", 'green', 4)                                     # 4 - Все графики + Апроксимация по (5.33)  
     
-    GridXY(_X,_ADX_Aprox_, "ADX - Approximation (4.1)", 'goldenrod', 5)                 # 5 - рафик апроксимации ADX (4.1) 
+    GridXY(_X,_ADX_Aprox_, "ADX - Approximation (4.1)", 'goldenrod', 5)                 # 5 - График апроксимации ADX (4.1) 
     
     GridXY(_X, _ADX, "All (4.1)", 'red', 6)                                             # 6 - Все графики + Апроксимация по (4.1)     
     GridXY(_X, _ADX_Noise, "All (4.1)", 'blue', 6)                                      # 6 - Все графики + Апроксимация по (4.1)   
